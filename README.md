@@ -3,3 +3,6 @@
 Плагин для inkscape лежит в папке MI Inkscape Extension инструкцию по установке выложу позже
 
 Версия Inkscape 0.48.5
+
+плагин поставить в директорию 
+C:\Program Files (x86)\Inkscape\share\extensions
