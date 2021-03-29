@@ -4,5 +4,5 @@
 
 Версия Inkscape 0.48.5
 
-плагин поставить в директорию 
+плагин(все то что внутри папки MI Inkscape Extension) поставить в директорию 
 C:\Program Files (x86)\Inkscape\share\extensions
