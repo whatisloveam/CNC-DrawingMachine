@@ -7,4 +7,4 @@
 плагин(все то что внутри папки MI Inkscape Extension) поставить в директорию 
 C:\Program Files (x86)\Inkscape\share\extensions
 
-Universal G-Code Sender [Inkscape](https://github.com/winder/Universal-G-Code-Sender)
+Universal G-Code Sender [UGS](https://github.com/winder/Universal-G-Code-Sender)
