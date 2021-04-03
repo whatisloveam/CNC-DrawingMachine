@@ -8,3 +8,5 @@
 C:\Program Files (x86)\Inkscape\share\extensions
 
 Universal G-Code Sender [UGS](https://github.com/winder/Universal-G-Code-Sender)
+
+Драйвер для arduino CH340
