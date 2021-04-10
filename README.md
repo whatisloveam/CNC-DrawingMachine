@@ -10,3 +10,8 @@ C:\Program Files (x86)\Inkscape\share\extensions
 Universal G-Code Sender [UGS](https://github.com/winder/Universal-G-Code-Sender)
 
 Драйвер для arduino CH340
+
+Команды: https://reprap.org/wiki/G-code
+
+Поднять ручку: M3S70
+Опустить ручку: M3S20
